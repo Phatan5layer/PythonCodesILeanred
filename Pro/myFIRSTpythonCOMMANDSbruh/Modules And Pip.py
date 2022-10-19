@@ -1,0 +1,3 @@
+import forfuturewifu
+
+print(forfuturewifu)
